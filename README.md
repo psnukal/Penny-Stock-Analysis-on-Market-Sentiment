@@ -6,4 +6,4 @@ A Recurrent Neural Network(RNN) architecture which uses Long Short-term Memory(L
 
 <b>With Market Sentiment vs Without Market Sentiment</b> comparision and analysis have been made on a few penny stocks (SALSTEEL, SOUTHBANK, TFL QUINN).
 
-The above mentioned experiments or tests on a few penny stocks have showed that considering the Market Sentiment would give a better result.
+The above mentioned experiments or tests on penny stocks has shown that considering the Market Sentiment into the model would give a better result.
